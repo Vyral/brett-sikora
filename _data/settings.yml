@@ -14,7 +14,9 @@ client:
   title:
   license_number:
   about_markdown: |
+    Real estate is my passion and you'll quickly see why my team separates itself from the competition. I started in Morris County in 2007 and moved to Hoboken to grow one of the the strongest real estate teams in all of Hudson County. While maintaining a strong base in Hoboken and downtown Jersey City, I started growing a second team in Morris County.
 
+    Whether you're a 1st time home buyer or a large developer, my team's number one priority is making sure we're on the same page as our clients throughout the buying and selling process, so we can get through each transaction as smoothly and efficiently as possible. I always respond to calls/texts/emails immediately and if I'm not available, I'll make sure one of my partners responds to address any concern you may have. Give me a call today so we can get started!
   market: North Jersey
   brand: The Sikora Group
   brokerage: Keller Williams
@@ -83,7 +85,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 20
   hero_text: North Jersey Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
@@ -102,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
