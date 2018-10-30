@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Is Fall the Time to Sell Your Home in Our Market?
-date: 2018-10-30 19:49:59
+date: 2018-10-30 19:49:00
 tags:
+  - Real Estate
+  - Home Seller Tips
 excerpt: >-
   Inventory is growing in our market, but you shouldn’t expect home values to
   dip. If you’re a seller, I suggest you put your home on the market now.
@@ -33,5 +35,3 @@ This data tells us that a shift is happening in our market, but I don’t think 
 On that note, we’re confident that our marketing strategies can help you get your home sold for top dollar, so if you would like to get started now, don’t hesitate to reach out to us.
 
 If you have any further questions about our fall market, feel free to give us a call or send us an email as well. We’d love to help you.
-
-&nbsp;
