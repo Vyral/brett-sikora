@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Fall the Time to Sell Your Home in Our Market?
+title: The Market Shift Is Here and Your Equity Could Be at Risk
 date: 2018-10-30 19:49:00
 tags:
   - Real Estate
