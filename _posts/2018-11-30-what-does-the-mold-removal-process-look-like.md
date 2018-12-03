@@ -33,7 +33,7 @@ Removal experts like Justin rely heavily on the data they find when performing t
 
 {% include pullquote.html %}
 
-In our case, they identified the species of mold that was present, where the water leak was coming from, and proceeded to remove as much of the affected material as they could that wasn’t structural. After that, they disinfected the parts of the structure that were impacted and set up proper air scrubbing so they could clean the air.
+In our case, they identified the species of mold that was present, where the water leak was coming from and proceeded to remove as much of the affected material as they could that wasn’t structural. After that, they disinfected the parts of the structure that were impacted and set up proper air scrubbing so they could clean the air.
 
 Once that was done, they post-tested the environment to check that the area was back to a “Condition 1” state. After we close the walls and finish the home, we’ll test the air one more time before we move in to ensure everything is safe.
 
