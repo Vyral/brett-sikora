@@ -19,7 +19,7 @@ youtube_code: 5tw0U3m8Pmk
 
 {% include youtube.html %}
 
-There is a behind-the-scenes soldier that does a lot of work for us here at the Sikora Group that I’d like to highlight today: **our all-in-one letter folder, envelope sealer, and envelope stuffer.**
+There is a behind-the-scenes soldier that does a lot of work for us here at the Sikora Group that I’d like to highlight today: **our all-in-one letter folder, envelope stuffer, and envelope sealer.**
 
 This machine allows us to produce up to 1,300 envelopes in an hour. If a buyer wants a property in a specific neighborhood and wants us to map out that whole area, we **can then go into the tax records, pull out everyone’s address, upload them into our machine, and then print all their names on the envelopes and folders.** After that, we tuck our mailers in one of the machine’s slots, and the machine stuffs and seals the envelopes. All we then have to do is stamp and send&nbsp; them out.
 
