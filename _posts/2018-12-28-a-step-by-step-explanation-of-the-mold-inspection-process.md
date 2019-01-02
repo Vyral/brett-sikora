@@ -29,7 +29,7 @@ Chris says when he first receives a call, the symptoms are often described as a 
 
 Once that’s done, Chris will extract and inspect a physical sample from Sheetrock in the home. He swabs the Sheetrock to determine the type of mold and its effects.
 
-He’ll then use a strip of tape, for what is called a “tape lift”, to seal the mold down onto the Sheetrock, and it’ll be sent off to the lab for further analysis.
+He’ll then use a strip of tape, for what is called a “tape lift,” to seal the mold down onto the Sheetrock, and it’ll be sent off to the lab for further analysis.
 
 Beyond that, Chris will conduct a visual assessment of the property as well.
 
