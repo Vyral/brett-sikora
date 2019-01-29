@@ -29,7 +29,7 @@ In the latter case, these types of pipes are usually wrapped in friable material
 
 {% include pullquote.html %}
 
-The fiber count of asbestos found in floor tiles is usually 2% to 10% lower. Asbestos that’s intact (i.e., not coming apart) is less of a concern unless it’s friable material, which can break apart. In either case, **it’s important that you test these areas to see if you need to perform an asbestos abatement.**
+The fiber count of asbestos found in floor tiles is usually 2% to 10% lower than found in wrapped pipes. Asbestos that’s intact (i.e., not coming apart) is less of a concern unless it’s friable material, which can break apart. In either case, **it’s important that you test these areas to see if you need to perform an asbestos abatement.**
 
 If you have any more asbestos questions for Chris, you can call his office at (201) 840-6126 or visit his website [www.cmburrowsinc.com](http://www.cmburrowsinc.com){: target="_blank"}.
 
