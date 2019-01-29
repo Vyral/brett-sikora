@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Don’t Let Asbestos Go Unabated in Your Home
-date: 2019-01-28 15:57:46
+title: Don’t Let Asbestos Go Unchecked in Your Home
+date: 2019-01-28 15:57:00
 tags:
   - Real Estate
 excerpt: >-
@@ -33,4 +33,4 @@ The fiber count of asbestos found in floor tiles is usually 2% to 10% lower. Asb
 
 If you have any more asbestos questions for Chris, you can call his office at (201) 840-6126 or visit his website [www.cmburrowsinc.com](http://www.cmburrowsinc.com){: target="_blank"}.
 
-As always, if you have any real estate questions for me, feel free to call or email me. I’d be happy to help you.
+As always, if you have any real estate questions, feel free to call or email me. I’d be happy to help you.
