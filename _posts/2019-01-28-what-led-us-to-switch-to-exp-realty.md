@@ -25,7 +25,7 @@ youtube_code: 2Q8IgznTufo
 
 As a cloud-based, agent-owned brokerage, eXp utilizes leading-edge technology that facilitates our ability to provide the best service possible to our clients.&nbsp;
 
-**One reason for our switch is their second-to-none training.** Through the cloud-based system, we have 24 to 30 hours’ worth of live training for our agents each week, and it’s held by some of the top agents in the world.&nbsp;
+**One reason for our switch is their second-to-none training.** Through the cloud-based system, we have 24 to 30 hours’ worth of live training for our agents each week, and it’s provided by some of the top agents in the world.&nbsp;
 
 {% include pullquote.html %}
 
