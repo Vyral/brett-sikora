@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>North Jersey Real Estate Podcast with Brett Sikora</title>
+    <title>New Jersey Real Estate Podcast with Brett Sikora</title>
     <link>http://localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Sikora Group - your professional North Jersey Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Sikora Group - your professional New Jersey Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Brett Sikora</managingEditor>
-    <lastBuildDate>2018-10-16 15:57:11 -0500</lastBuildDate>
+    <lastBuildDate>2020-11-23 12:22:15 -0600</lastBuildDate>
     <media:copyright>Brett Sikora</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>brett@sellwithsikora.com</itunes:email>
@@ -19,11 +19,262 @@
     <itunes:author>Brett Sikora</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the North Jersey Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Sikora Group - your professional North Jersey Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Sikora Group - your professional New Jersey Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>What Led Us to Switch to eXp Realty?</title>
+        <link>http://localhost:4000/what-led-us-to-switch-to-exp-realty.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brett Sikora</author>
+        <pubDate>2019-01-28 09:57:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2019/North+Jersey+Real+Estate-+Why+We+Made+the+Switch+to+eXp+Realty.mp4</guid>
+        <description>
+
+We’ve made the switch to eXp Realty, but what about it drew us in? 
+
+As a cloud-based, agent-owned brokerage, eXp utilizes leading-edge technology that facilitates our ability to provide the best service possible to our clients. 
+
+One reason for our switch is their second-to-none training. Through the cloud-based system, we have 24 to 30 hours’ worth of live training for our agents each week, and it’s provided by some of the top agents in the world. 
+
+“With eXp, we’ll be able to utilize leading-edge technology to provide the best service possible to our clients.”
+
+The collaborative nature to eXp’s approach is another reason for our switch. The agents are all aligned and working in concert to achieve goals. If we want to learn how we can set a new mark for home sales in a given year, it’s not coming from the local manager or the brokers. Instead, we’re learning from agents that have hit that mark before.
+
+If you have any questions about our switch or anything else related to real estate, feel free to reach out to me. I look forward to working with you at eXp!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2019/North+Jersey+Real+Estate-+Why+We+Made+the+Switch+to+eXp+Realty.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2019/North+Jersey+Real+Estate-+Why+We+Made+the+Switch+to+eXp+Realty.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’ve transitioned over to eXp Realty? Why, you ask? Find out in today’s message.</itunes:subtitle>
+        <itunes:author>Brett Sikora</itunes:author>
+        <itunes:summary>We’ve transitioned over to eXp Realty? Why, you ask? Find out in today’s message.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Don’t Let Asbestos Go Unabated in Your Home</title>
+        <link>http://localhost:4000/dont-let-asbestos-go-unabated-in-your-home.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brett Sikora</author>
+        <pubDate>2019-01-28 09:57:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+Important+Safety+Tips+Regarding+Asbestos.mp4</guid>
+        <description>
+
+Today I’m joined once again by home inspector Chris Burrows, and this time we’re talking about where you can find asbestos in your home.
+
+There are two main areas where asbestos is commonly found: in floor tiles or around old basement boilers with insulated pipes.
+
+In the latter case, these types of pipes are usually wrapped in friable material, which can become airborne quickly and can contain up to 60% asbestos. At the 0:33 mark in the video above, I’ve included a picture of what this looks like. It’s pretty easy to identify, especially if you live in an older home.
+
+“Asbestos that’s intact (i.e., not coming apart) is less of a concern unless it’s friable material, which can break apart.”
+
+The fiber count of asbestos found in floor tiles is usually 2% to 10% lower than found in wrapped pipes. Asbestos that’s intact (i.e., not coming apart) is less of a concern unless it’s friable material, which can break apart. In either case, it’s important that you test these areas to see if you need to perform an asbestos abatement.
+
+If you have any more asbestos questions for Chris, you can call his office at (201) 840-6126 or visit his website www.cmburrowsinc.com.
+
+As always, if you have any real estate questions, feel free to call or email me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+Important+Safety+Tips+Regarding+Asbestos.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+Important+Safety+Tips+Regarding+Asbestos.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Asbestos can accumulate in two areas of a home: in floor tiles and around old basement boilers with insulated pipes.</itunes:subtitle>
+        <itunes:author>Brett Sikora</itunes:author>
+        <itunes:summary>Asbestos can accumulate in two areas of a home: in floor tiles and around old basement boilers with insulated pipes.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Step-by-Step Explanation of the Mold Inspection Process</title>
+        <link>http://localhost:4000/a-step-by-step-explanation-of-the-mold-inspection-process.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brett Sikora</author>
+        <pubDate>2018-12-28 09:09:09 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+How+the+Mold+Inspection+Process+Works.mp4</guid>
+        <description>
+
+Chris says when he first receives a call, the symptoms are often described as a musty smell or a leak from the roof or roof deck. The first test he’ll conduct is what’s called the “air cassette test.” This test will draw in samples of the air to test its quality for any form of mold that can be a health hazard.
+
+The litmus test that Chris uses to determine whether or not there are dangerous levels of mold within the home is measuring the inside air against the air outdoors. Outside air will always contain mold, and should, therefore, be at higher levels than what’s inside the home. That will signal to Chris just how safe or poor the air quality is in the home—especially in the bedrooms and living space.  
+
+“Outside air will always contain mold, and should, therefore, be at higher levels than what’s inside the home.”
+
+Once that’s done, Chris will extract and inspect a physical sample from Sheetrock in the home. He swabs the Sheetrock to determine the type of mold and its effects.
+
+He’ll then use a strip of tape, for what is called a “tape lift,” to seal the mold down onto the Sheetrock, and it’ll be sent off to the lab for further analysis.
+
+Beyond that, Chris will conduct a visual assessment of the property as well.
+
+If you notice a musty smell or you’ve experienced water damage in your home, Chris is a great source to call upon to protect against the toxic effects of mold. Reach out and get in touch with him.
+
+For any other real estate-related questions or concerns, be sure to get in touch with me as well. I’d be happy to assist you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+How+the+Mold+Inspection+Process+Works.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+How+the+Mold+Inspection+Process+Works.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’m joined by Chris Burrows, a home inspector who has long-served our area, to discuss mold in the home and how he tests for its presence.</itunes:subtitle>
+        <itunes:author>Brett Sikora</itunes:author>
+        <itunes:summary>Today I’m joined by Chris Burrows, a home inspector who has long-served our area, to discuss mold in the home and how he tests for its presence.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Example of a Tool We Use to Serve Your Real Estate Needs</title>
+        <link>http://localhost:4000/an-example-of-a-tool-we-use-to-serve-your-real-estate-needs.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brett Sikora</author>
+        <pubDate>2018-12-17 11:54:03 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+An+Example+of+the+Tools+We+Use+to+Serve+Your+Real+Estate+Needs.mp4</guid>
+        <description>
+
+There is a behind-the-scenes soldier that does a lot of work for us here at the Sikora Group that I’d like to highlight today: our all-in-one letter folder, envelope stuffer, and envelope sealer.
+
+This machine allows us to produce up to 1,300 envelopes in an hour. If a buyer wants a property in a specific neighborhood and wants us to map out that whole area, we can then go into the tax records, pull out everyone’s address, upload them into our machine, and then print all their names on the envelopes and folders. After that, we tuck our mailers in one of the machine’s slots, and the machine stuffs and seals the envelopes. All we then have to do is stamp and send  them out.
+
+“This machine allows us to produce up to 1,300 envelopes in an hour.”
+
+This tool is just another part of our arsenal to make sure that we help our buyers and sellers from every angle; with it, we can reach people when doing so by phone isn’t an option, and it’s also useful for blanket mailings. It benefits both buyers looking for off-market properties and also our sellers looking to announce open houses.
+
+If you have any questions about the ways that we help our buyers and sellers or about real estate in general, please don’t hesitate to reach out to us. We’d be glad to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+An+Example+of+the+Tools+We+Use+to+Serve+Your+Real+Estate+Needs.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+An+Example+of+the+Tools+We+Use+to+Serve+Your+Real+Estate+Needs.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’ll discuss one of the many tools we use to sell more homes and find more properties for buyers.</itunes:subtitle>
+        <itunes:author>Brett Sikora</itunes:author>
+        <itunes:summary>Today I’ll discuss one of the many tools we use to sell more homes and find more properties for buyers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Does the Mold Removal Process Look Like?</title>
+        <link>http://localhost:4000/what-does-the-mold-removal-process-look-like.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brett Sikora</author>
+        <pubDate>2018-11-30 09:55:11 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+What+to+Do+If+You+Find+Mold+in+Your+Property.mp4</guid>
+        <description>
+
+Mold is never a welcome sight for homeowners, but fortunately, taking care of this problem before it becomes a bigger problem isn’t difficult.
+
+To show you what the mold removal process entails, I’ve brought in Justin Guyre of Renew Restoration, and I’m using the house my wife and I are currently building as an example.
+
+We recently had a water leak between the second and third floors of the unit, and we called Justin and his team to test for mold. Once the results came back positive, they got started on the remediation process.
+
+If you find mold in your home, the first thing you should do is identify the source of it, whether it’s from relative humidity or direct water contact. Mold can’t grow without water, so once the source is identified, you can get to work on removing it.
+
+Removal experts like Justin rely heavily on the data they find when performing their tests because there are many different species of mold and not all of them are harmful. The species that grow on building materials and are water damage indicators, however, must be removed.
+
+“Mold can’t grow without water, so once the source is identified, you can get to work on removing it.”
+
+In our case, they identified the species of mold that was present, where the water leak was coming from and proceeded to remove as much of the affected material as they could that wasn’t structural. After that, they disinfected the parts of the structure that were impacted and set up proper air scrubbing so they could clean the air.
+
+Once that was done, they post-tested the environment to check that the area was back to a “Condition 1” state. After we close the walls and finish the home, we’ll test the air one more time before we move in to ensure everything is safe.
+
+If you understand what’s causing mold in your home, there are many cost-effective things you can do yourself to fix it and prevent it from happening again. Proper dehumidification is very important in areas like your basement, so keep your humidity levels below 65% all year long. If you let it rise above 65% for an extended period of time, don’t be surprised to open up a closet door one day and find mold growing.
+
+In a situation like that, where there’s no direct water contact, you might not need a total mold removal—you might just need to remove the spores. In other situations, such as when mold grows on your home’s sheetrock from direct water contact, you’ll have to remove the sheetrock entirely instead of just cleaning it.
+
+Why? According to Justin, the molds that grow this way typically have hyphae, or the root system of their vegetative growth. You have to remove the sheetrock entirely to make sure that you can kill that root system and clean any mold that’s spread to the structure of the house, itself. By HEPA vacuuming and air scrubbing, this issue can be fixed without doing a tremendous amount of extra work.
+
+If you have any more questions about mold removal, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+What+to+Do+If+You+Find+Mold+in+Your+Property.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+What+to+Do+If+You+Find+Mold+in+Your+Property.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’ll show you what the mold removal process looks like so you know what to expect if you ever find mold in your home.</itunes:subtitle>
+        <itunes:author>Brett Sikora</itunes:author>
+        <itunes:summary>Today I’ll show you what the mold removal process looks like so you know what to expect if you ever find mold in your home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Difference Between a Short Sale and a Foreclosure</title>
+        <link>http://localhost:4000/the-difference-between-a-short-sale-and-a-foreclosure.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Brett Sikora</author>
+        <pubDate>2018-11-16 09:38:28 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+The+Difference+Between+a+Short+Sale+and+a+Foreclosure.mp4</guid>
+        <description>
+
+I often get questions about what short sales and foreclosures are, as well as which one is best for buyers. Today we’ll be going over what the key differences between them are.
+
+To illustrate a short sale, let’s say a seller owes $500,000 on their property’s mortgage but wants to sell it for $400,000. The bank will take a hit of $100,000 if they agree to do so. The problem is that short sale properties can take a long time (six to 12 months) to sell. If it’s taking too long, the bank could change their mind and request more from the seller. It could turn out to be a waste of your time if the bank ultimately decides to sell to a new lender and they then foreclose the home. If you get involved in a short sale, make sure it’s good and that you’re able to wait awhile.
+
+“Between a foreclosure and a short sale, we’ve found you’ll often get a better price on foreclosures.”
+
+On the other hand, foreclosures are already owned and have regular transaction times. You could close in 15 to 30 days, get a mortgage, and treat the process as you would when buying a regular home. Most foreclosures are sold as-is, so you won’t find sellers willing to make many repairs. Between a foreclosure and a short sale, we’ve found you’ll often get a better price on foreclosures. Unfortunately, we don’t see many foreclosures come on the market, and the ones that do are often purchased quickly by investors.
+
+While we prefer the pursuit of foreclosures, we can still help you with any short sales you may be interested in. Feel free to reach out to us if you have any questions or need more information. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+The+Difference+Between+a+Short+Sale+and+a+Foreclosure.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+The+Difference+Between+a+Short+Sale+and+a+Foreclosure.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Short sales may be a long process, but foreclosures are harder to obtain. Here are some differences between the two.</itunes:subtitle>
+        <itunes:author>Brett Sikora</itunes:author>
+        <itunes:summary>Short sales may be a long process, but foreclosures are harder to obtain. Here are some differences between the two.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Market Shift Is Here and Your Equity Could Be at Risk</title>
+        <link>http://localhost:4000/the-market-shift-is-here-and-your-equity-could-be-at-risk.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Brett Sikora</author>
+        <pubDate>2018-10-30 14:49:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+What+Sellers+Can+Expect+From+the+2018+Fall+Market.mp4</guid>
+        <description>
+
+What’s been happening with our Jersey City/Hoboken area market so far in 2018? How should sellers feel about our fall market moving forward? Let’s look at the latest year-to-date statistics and how they compare to the same numbers from 2017.
+
+The number of new listings in Jersey City increased 35% from 798 to 1,216 homes on the market. There are more homes for buyers to choose from, and this increase has created a healthier market in downtown Jersey City. The number of sales, meanwhile, decreased from 477 to 402. That’s not a huge change, but keep in mind that we have a lot of new construction inventory that’s not showing up on the MLS. Sales are still out there and buyers are still buying—you just need to give them a reason to buy.
+
+“Sales are still out there, and buyers are still buying—you just need to give them a reason to buy.”
+
+In Hoboken, the number of new listings increased 22% from 1,139 to 1,460 homes on the market. Unlike Jersey City, though, the number of sales in this area increased slightly from 688 to 705.
+
+This data tells us that a shift is happening in our market, but I don’t think home values are going to dip because the banking industry is still very strong. If you’ve been on the fence about selling, I recommend that you do it now.
+
+On that note, we’re confident that our marketing strategies can help you get your home sold for top dollar, so if you would like to get started now, don’t hesitate to reach out to us.
+
+If you have any further questions about our fall market, feel free to give us a call or send us an email as well. We’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+What+Sellers+Can+Expect+From+the+2018+Fall+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Sikora/Videos+/2018/North+Jersey+Real+Estate-+What+Sellers+Can+Expect+From+the+2018+Fall+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Inventory is growing in our market, but you shouldn’t expect home values to dip. If you’re a seller, I suggest you put your home on the market now.</itunes:subtitle>
+        <itunes:author>Brett Sikora</itunes:author>
+        <itunes:summary>Inventory is growing in our market, but you shouldn’t expect home values to dip. If you’re a seller, I suggest you put your home on the market now.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>What Should You Ask an Agent Before You Hire Them?</title>
         <link>http://localhost:4000/what-should-you-ask-agent-before-you.html</link>
@@ -69,7 +320,7 @@ If you’re looking to hire an agent to help you purchase a new home, ask these 
 If you’re looking to hire an agent to help you purchase a new home, ask these three questions to ensure they’re the right pick for you.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -117,7 +368,7 @@ As a homebuyer, you should know what your options are when it comes to financing
 As a homebuyer, you should know what your options are when it comes to financing your purchase. I’ll go over four different types of loans for you today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -167,7 +418,7 @@ What should you expect from the 2018 spring real estate market? I have some good
 What should you expect from the 2018 spring real estate market? I have some good tips on what to keep an eye out for.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -217,7 +468,7 @@ There are five things investors don’t count on when renovating a property that
 There are five things investors don’t count on when renovating a property that I want you to know today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -267,7 +518,7 @@ If you have any other questions about our real estate market, give me a call or 
 2017 was a great year for the world of real estate. Will 2018 be another great year, or will home values start to level off?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -315,7 +566,7 @@ There are a few things you need to ensure that your agent does for you. Here are
 There are a few things you need to ensure that your agent does for you. Here are four of the most important.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -385,7 +636,7 @@ In order to purchase a home in 2018 and take advantage of the spring market, the
 In order to purchase a home in 2018 and take advantage of the spring market, there are eight steps you need to take now.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -435,7 +686,7 @@ Your mortgage isn’t the only thing you’ll have to pay when you buy a home. H
 Your mortgage isn’t the only thing you’ll have to pay when you buy a home. Here are five unexpected costs.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -487,7 +738,7 @@ The first step in buying a home isn’t looking online for properties. It’s an
 The first step in buying a home isn’t looking online for properties. It’s answering these five questions about your financial situation.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -539,7 +790,7 @@ If you’re a seller, what are a some ways you can maximize your opportunity? To
 If you’re a seller, what are a some ways you can maximize your opportunity? Today, I’ve got two methods to share.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -589,7 +840,7 @@ When you make your first offer on a home, it needs to be a strong one. There are
 When you make your first offer on a home, it needs to be a strong one. There are a couple of main reasons why.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -635,7 +886,7 @@ Is your home ready for the spring selling season? If not, here are three simple 
 Is your home ready for the spring selling season? If not, here are three simple things you can do now to make your home more appealing to buyers.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -684,12 +935,12 @@ How can you figure out your investment return on your rental property? I’ll go
 How can you figure out your investment return on your rental property? I’ll go over two ways to do that today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in New Jersey, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Brett Sikora</copyright>
     <media:credit role="author">Brett Sikora</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Sikora Group - your professional North Jersey Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Sikora Group - your professional New Jersey Real Estate Agents.</media:description>
   </channel>
 </rss>
