@@ -46,9 +46,9 @@ client:
   url: 'http://www.sellwithsikora.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://brett.sellwithsikora.com/home-valuation/'
+  first_CTA_URL: 'https://www.sellwithsikora.com/home-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://sellwithsikora.com/'
+  second_CTA_URL: 'https://www.sellwithsikora.com/results-gallery/?photo=1&sort=importdate&status=A%2CCS'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your New Jersey Home Worth?
@@ -56,13 +56,13 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'https://brett.sellwithsikora.com/home-valuation/'
+    CTA_url: 'https://www.sellwithsikora.com/home-valuation/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/007.jpg
     CTA_title2: Looking for a New Jersey Home?
     CTA_text2: Search the entire MLS for your New Jersey home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://sellwithsikora.com/'
+    CTA_url2: 'https://www.sellwithsikora.com/results-gallery/?photo=1&sort=importdate&status=A%2CCS'
 lender:
   show_section: false
   header_text: Preferred Lender
