@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: this is a test post
-date: 2016-10-04
+date: 2016-10-04 14:43:00
 tags:
   - Market Update
   - Real Estate
